@@ -59,7 +59,7 @@ const CustomerTable = ({
         ""
       ) : (
         <p className="text-info ">
-          * You Should Select Customer To Show Transaction
+          * You Should select customer
         </p>
       )}
     </div>
